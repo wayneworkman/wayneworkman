@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @wayneworkman
+- 👀 I’m interested in home-made neural networks, home-made genetic algorithms, python, big parallel processing on Linux. 
+- 🌱 I’m currently learning Spanish.
+- 💞️ I’m looking to collaborate on adding JSON output as an option for all Linux CLI tools.
+- 📫 How to reach me: wayne@theworkmans.us
