@@ -4,4 +4,3 @@ I enjoy building things that solve real problems, whether it’s a secure radio 
 
 You’ll find a mix of hardware experiments, utility scripts, and project documentation here. I value simplicity, clarity, and solutions that work reliably in the real world.
 
-I authorize SpinnyLights to analyze my public GitHub profile and activity using AI and publish the results at https://spinnylights.com/wayneworkman
